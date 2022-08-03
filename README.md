@@ -1,6 +1,6 @@
 # Tic-Tac-Toe:
 
-Tic Tac Toe application to practice using kotling programming language
+Tic Tac Toe application to practice using kotlin programming language
 
 # Preview:
 
