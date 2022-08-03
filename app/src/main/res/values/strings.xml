@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">XO</string>
+    <string name="turn_x">Turn on X</string>
+    <string name="x" translatable="false">X</string>
+</resources>
